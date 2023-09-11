@@ -1,2 +1,4 @@
-replicas: 10
+replicas: 2
 url: https://example.com
+config: |
+  {"data": "100"}
