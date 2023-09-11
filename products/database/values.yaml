@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-replicas: 10
-url: https://example.com
-=======
 replicas: 2
 url: https://example.com
 config: |
   {"data": "100"}
->>>>>>> delivery-branch
